@@ -367,11 +367,4 @@ Each has different risks, rewards, and timelines.
 ✅ What will the market look like in 2030?  
 ✅ What are the main risks ahead?  
 ✅ What should I do about it?
-
 ---
-
-**Report Version:** 1.0  
-**Last Updated:** November 2025  
-**Confidence Level:** High for 2024-2025 | Medium for 2025-2027 | Indicative for 2028-2030
-
-*This report is designed to be read in 20-30 minutes for complete understanding.*
