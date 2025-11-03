@@ -3,7 +3,7 @@
 
 **For:** Board Members, Investors & Executives  
 **Date:** November 2025  
-**What This Report Is:** Clear answers to your EV market questions
+**What This Dashboard Report Is all about:** Clear answers to your EV market questions
 
 ---
 
@@ -259,7 +259,7 @@ Because BMW selling one car = OLA selling 20 scooters (in profit). Competition h
 
 ---
 
-### If You're The Government
+### Insights helpful for Govt policy makers
 
 **What You Must Do:**
 1. **Build Charging Networks:** 500,000+ stations needed by 2030 (vs. 50,000 today)
@@ -358,7 +358,7 @@ Each has different risks, rewards, and timelines.
 
 ---
 
-**Questions This Report Answers:**
+**Questions This Analytics Dashboard Report Answers:**
 
 ✅ Why are EV sales down but penetration up?  
 ✅ Who's winning and why?  
@@ -367,4 +367,6 @@ Each has different risks, rewards, and timelines.
 ✅ What will the market look like in 2030?  
 ✅ What are the main risks ahead?  
 ✅ What should I do about it?
+
+- To dig dipper into these insights you can download the Dashboard files provided in the repository.
 ---
